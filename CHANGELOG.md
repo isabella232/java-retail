@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.0.20](https://github.com/googleapis/java-retail/compare/v2.0.19...v2.0.20) (2022-04-27)
+
+
+### Documentation
+
+* **samples:** Retail. Prediction samples ([#412](https://github.com/googleapis/java-retail/issues/412)) ([025f04f](https://github.com/googleapis/java-retail/commit/025f04fb663274c9388e6a73ebdb47d5c7cb5730))
+
 ### [2.0.19](https://github.com/googleapis/java-retail/compare/v2.0.18...v2.0.19) (2022-04-19)
 
 
